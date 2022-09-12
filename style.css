@@ -1,3 +1,30 @@
 body {
     background-color: rgb(235, 235, 235);
 }  
+
+p {
+    color: rgb(48, 48, 48);
+}
+
+.card {
+    width: 350px;
+    height: 15%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.tarjetas {
+    display: flex;
+    justify-content: center;
+}
+
+.parrafoCartas {
+    line-height: 20px;
+}
+
+.btn-floating-btn-large-waves-effect-waves-light-red {
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    width: 100%;
+}
