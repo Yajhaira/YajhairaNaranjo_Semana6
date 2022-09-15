@@ -22,9 +22,26 @@ p {
     line-height: 20px;
 }
 
-.btn-floating-btn-large-waves-effect-waves-light-red {
+.material-icons {
+    margin: 10px;
+    
     display: flex;
-    justify-content: right;
-    align-items: flex-end;
+    justify-content: left;
+    align-items: flex-start;
+    padding-left: 22px;
     width: 100%;
+    font-weight: 500;
+    color:rgb(255, 255, 255);
+
+    width: 55px;
+    height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #f9aa43;
+}
+
+.brand-logo {
+    margin-top: 10px;
+    margin-left: 10px;
 }
