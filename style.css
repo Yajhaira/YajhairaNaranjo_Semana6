@@ -6,6 +6,18 @@ p {
     color: rgb(48, 48, 48);
 }
 
+h1 {
+    color: #ff6e84;
+    margin-left: 70px;
+    font-weight: 600;
+}
+
+h2 {
+    color: rgb(56, 56, 56);
+    font-size: 20px;
+    margin-left: 70px;
+}
+
 .card {
     width: 350px;
     height: 15%;
